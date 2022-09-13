@@ -1,4 +1,4 @@
-![](https://c.tenor.com/fzCt8ROqlngAAAAC/error-error404.gif)
+![](https://c.tenor.com/iUhWHvK_D4AAAAAC/error.gif)
 
 Hi there, I'm [Gleb](https://vk.com/graats)
 
