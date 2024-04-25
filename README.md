@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there, I'm Gleb 👋</h1>
+<h1 align="center"> I'm Gleb 👋</h1>
 
 <p align="center">
   <samp>Future UI/UX Designer | Applied Informatics Student | Web Enthusiast</samp>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D265F7&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=The+best+student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D265F7&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=__________________________________________________________" alt="Typing SVG" />
 </p>
 
 ---
